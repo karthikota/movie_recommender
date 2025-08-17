@@ -82,7 +82,6 @@ Recommended Movies:
 ## Notes
 
 - For production, you could easily add more moods, genres, or even wrap this with a GUI or web API.
-- Current logic is simple for interview/demo clarity.
 
 ---
 
