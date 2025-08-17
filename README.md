@@ -27,7 +27,8 @@ Perfect showcase of backend and SQL skills for SDE internships.
 
 Open MySQL Workbench or terminal, and run:
 
--- Copy-paste and execute everything in mysql_setup.sql 
+Open MySQL Workbench or terminal, and execute all the SQL commands inside mysql_setup.sql.
+
 
 Change MySQL root password if yours is not `YES`.
 
